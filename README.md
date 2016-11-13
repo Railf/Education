@@ -1,2 +1,2 @@
 # Education
-Code written during my education
+Code written during my education.
