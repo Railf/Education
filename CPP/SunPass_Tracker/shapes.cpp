@@ -10,9 +10,9 @@
 		Class Plane Implementation
 */
 
-#include <shapes.h>	// Shapes Classes Definitions
-#include <cmath>		// M_PI defined to 21 significant digits
-#include <iostream>	// std::
+#include <shapes.h>
+#include <cmath>
+#include <iostream>
 
 // ====================================================================================
 // = Class Box Implementation																													=
