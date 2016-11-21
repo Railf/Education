@@ -17,13 +17,13 @@ template < typename T >
 long double Mean (const std::vector<T>& v);	// returns mean of elements of v
 
 template < typename T >
-long double Median (std::vector<T>& v);			// returns median of elements of v
+long double Median (std::vector<T>& v);		// returns median of elements of v
 
 template < typename T >
-void SelectionSort (std::vector<T>& v);			// implements insertion_sort algorithm
+void SelectionSort (std::vector<T>& v);		// implements insertion_sort algorithm
 
 template < typename T >
-void Swap (T& x, T& y);											// interchanges values of x and y
+void Swap (T& x, T& y);				// interchanges values of x and y
 
 // ==========================================================================
 // = Template Implementations
